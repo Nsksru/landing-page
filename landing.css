@@ -1,17 +1,18 @@
 .head{
     display: flex;
-    height: 40px;
+    height: 50px;
     padding: 0px;
-    background-color:  rgb(43, 82, 172);
+    background-color:  #1f2937;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
     
 }
 .head #item{
-    background-color: rgb(88, 177, 228);
+    background-color: #1f2937;
     width: 75px;
     height: 35px;
-    box-shadow: 0px 0px 2px 2px rgb(42, 102, 206);
+    
+    
     
 }
