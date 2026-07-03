@@ -8,11 +8,18 @@
     justify-content: space-between;
     
 }
-.head .buttons{
+.buttons #items{
     background-color: #1f2937;
-    width: 75px;
+    width: 125px;
     height: 35px;
+    padding: 0;
     
     
     
+}
+.middle-01{
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+    background-color: #1f2937;
 }
